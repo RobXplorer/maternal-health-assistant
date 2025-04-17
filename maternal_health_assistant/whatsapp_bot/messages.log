@@ -1,0 +1,90 @@
+2025-04-16 03:09:22.577572 | From: whatsapp:+2348034763599 | Msg: soo | Response: ⚠️ Error: Invalid input format. Missing required fields: bleeding, convulsions, fever, bp, headache
+2025-04-16 03:09:56.979153 | From: whatsapp:+2348034763599 | Msg: fever no bleeding yes headache yes convulsions no bp 160/100 | Response: ⚠️ Error: Invalid input format. Missing required fields: bp
+2025-04-16 03:10:23.174495 | From: whatsapp:+2348034763599 | Msg: bp 140/90 fever yes bleeding no headache no convulsions no | Response: ⚠️ Error: Invalid input format. Missing required fields: bp
+2025-04-16 03:10:44.092188 | From: whatsapp:+2348034763599 | Msg: 140/90 fever yes bleeding no headache no convulsions no | Response: ⚠️ Error: Invalid input format. Missing required fields: bp
+2025-04-16 03:20:54.554682 | From: whatsapp:+2348034763599 | Msg: bp 140/90 fever yes bleeding no headache no convulsions no | Response: ⚠️ Error: Invalid input format. Missing required fields: bp
+2025-04-16 03:21:13.097504 | From: whatsapp:+2348034763599 | Msg: hi | Response: 👋 Welcome to the Maternal Health Assistant!
+
+To assess your health, send a message like:
+`bp 140/90 fever yes bleeding no headache no convulsions no`
+
+Respond with `yes` or `no` after each symptom.
+We'll give you a risk level and recommendation instantly 💡
+2025-04-16 03:22:27.099621 | From: whatsapp:+2348034763599 | Msg: bp 120/80
+fever no
+bleeding no
+headache no
+convulsions yes | Response: ⚠️ Error: Invalid input format. Missing required fields: bp
+2025-04-16 03:22:48.567578 | From: whatsapp:+2348034763599 | Msg: start | Response: 👋 Welcome to the Maternal Health Assistant!
+
+To assess your health, send a message like:
+`bp 140/90 fever yes bleeding no headache no convulsions no`
+
+Respond with `yes` or `no` after each symptom.
+We'll give you a risk level and recommendation instantly 💡
+2025-04-16 03:23:08.664652 | From: whatsapp:+2348034763599 | Msg: bp 140/90 | Response: ⚠️ Error: Invalid input format. Missing required fields: bleeding, fever, bp, convulsions, headache
+2025-04-16 03:24:01.580077 | From: whatsapp:+2348034763599 | Msg: be 140/90 fever yes bleeding no headache no convulsion no | Response: ⚠️ Error: Invalid input format. Missing required fields: convulsions, bp
+2025-04-16 03:26:01.893893 | From: whatsapp:+2348034763599 | Msg: bp 140/90 fever yes bleeding no headache no convulsion no | Response: ⚠️ Error: Invalid input format. Missing required fields: convulsions, bp
+2025-04-16 03:27:13.711238 | From: whatsapp:+2348034763599 | Msg: be 140/90 fever yes bleeding no headache no convulsions no | Response: ⚠️ Error: Invalid input format. Missing required fields: bp
+2025-04-16 03:28:02.643538 | From: whatsapp:+2348034763599 | Msg: hi | Response: 👋 Welcome to the Maternal Health Assistant!
+
+To assess your health, send a message like:
+`bp 140/90 fever yes bleeding no headache no convulsions no`
+
+Respond with `yes` or `no` after each symptom.
+We'll give you a risk level and recommendation instantly 💡
+2025-04-16 03:28:20.486660 | From: whatsapp:+2348034763599 | Msg: bp 140/90 fever yes bleeding no headache no convulsions no | Response: ⚠️ Error: Invalid input format. Missing required fields: bp
+2025-04-16 03:33:10.626607 | From: whatsapp:+2348034763599 | Msg: hi | Response: 👋 Welcome to the Maternal Health Assistant!
+
+To assess your health, send a message like:
+`bp 140/90 fever yes bleeding no headache no convulsions no`
+
+Respond with `yes` or `no` after each symptom.
+We'll give you a risk level and recommendation instantly 💡
+2025-04-16 03:33:26.159571 | From: whatsapp:+2348034763599 | Msg: bp 140/90 fever yes bleeding no headache no convulsions no | Response: Risk: MODERATE
+Advice: Monitor symptoms. Visit a clinic if conditions worsen.
+2025-04-16 03:34:11.255586 | From: whatsapp:+2348034763599 | Msg: bp 80/30 fever yes bleeding no headache no convulsions no | Response: Risk: MODERATE
+Advice: Monitor symptoms. Visit a clinic if conditions worsen.
+2025-04-16 03:34:40.819583 | From: whatsapp:+2348034763599 | Msg: bp | Response: ⚠️ Error: Missing BP. Please include something like 'bp 130/85'
+2025-04-16 03:35:04.370738 | From: whatsapp:+2348034763599 | Msg: bp 20/10 | Response: Risk: LOW
+Advice: Continue regular antenatal care. No urgent risks detected.
+2025-04-16 03:41:43.308904 | From: whatsapp:+2348034763599 | Msg: bp 130/80 fever yes bleeding no headache no convulsions no | Response: Risk: MODERATE
+Advice: Monitor symptoms. Visit a clinic if conditions worsen.
+2025-04-16 03:42:59.551754 | From: whatsapp:+2348034763599 | Msg: hi | Response: 👋 Welcome to the Maternal Health Assistant!
+
+To assess your health, send a message like:
+`bp 140/90 fever yes bleeding no headache no convulsions no`
+
+Respond with `yes` or `no` after each symptom.
+We'll give you a risk level and recommendation instantly 💡
+2025-04-16 03:47:14.489804 | From: whatsapp:+2348034763599 | Msg: hi | Response: 👋 Welcome to the Maternal Health Assistant!
+
+To assess your health, send a message like:
+`bp 140/90 fever yes bleeding no headache no convulsions no`
+
+Respond with `yes` or `no` after each symptom.
+We'll give you a risk level and recommendation instantly 💡
+2025-04-16 03:47:40.548292 | From: whatsapp:+2348034763599 | Msg: bp 140/90 fever yes bleeding no headache no convulsions no | Response: Risk: MODERATE
+Advice: Monitor symptoms. Visit a clinic if conditions worsen.
+2025-04-16 03:48:14.361437 | From: whatsapp:+2348034763599 | Msg: bp 120/80 fever bleeding headache yes | Response: ⚠️ Error: Invalid response 'bleeding' for fever. Use 'yes' or 'no'
+2025-04-16 03:49:03.746281 | From: whatsapp:+2348034763599 | Msg: bp 120/80 fever yes bleeding headache yes convulsions | Response: ⚠️ Error: Invalid response 'headache' for bleeding. Use 'yes' or 'no'
+2025-04-16 03:50:06.693617 | From: whatsapp:+2348034763599 | Msg: bp 110/80 fever yes bleeding yes headache yes convulsions yes | Response: Risk: HIGH
+Advice: Seek immediate medical attention at the nearest facility.
+2025-04-16 12:38:09.283262 | From: whatsapp:+2348034763599 | Msg: he | Response: ⚠️ Error: Missing BP. Please include something like 'bp 130/85'
+2025-04-16 12:38:39.663681 | From: whatsapp:+2348034763599 | Msg: hi | Response: 👋 Welcome to the Maternal Health Assistant!
+
+To assess your health, send a message like:
+`bp 140/90 fever yes bleeding no headache no convulsions no`
+
+Respond with `yes` or `no` after each symptom.
+We'll give you a risk level and recommendation instantly 💡
+2025-04-16 12:39:35.902915 | From: whatsapp:+2348034763599 | Msg: bp 120/40 fever no bleeding no headache yes convulsions no | Response: ⚠️ Something went wrong. Please check your input format and try again.
+2025-04-16 12:40:17.183800 | From: whatsapp:+2348034763599 | Msg: bp 140/90 fever yes bleeding no headache no convulsions yes | Response: ⚠️ Something went wrong. Please check your input format and try again.
+2025-04-16 12:40:37.812153 | From: whatsapp:+2348034763599 | Msg: bp 140/90 fever yes bleeding no headache no convulsions no | Response: ⚠️ Something went wrong. Please check your input format and try again.
+2025-04-16 12:40:54.157050 | From: whatsapp:+2348034763599 | Msg: hi | Response: 👋 Welcome to the Maternal Health Assistant!
+
+To assess your health, send a message like:
+`bp 140/90 fever yes bleeding no headache no convulsions no`
+
+Respond with `yes` or `no` after each symptom.
+We'll give you a risk level and recommendation instantly 💡

@@ -1,0 +1,8 @@
+2025-04-16 02:35:26.730019 | From: whatsapp:+2348034763599 | Msg: gu | Response: Risk: LOW
+Advice: Continue regular antenatal care. No urgent risks detected.
+2025-04-16 02:38:23.079304 | From: whatsapp:+2348034763599 | Msg: jj | Response: Risk: LOW
+Advice: Continue regular antenatal care. No urgent risks detected.
+2025-04-16 02:39:03.226698 | From: whatsapp:+2348034763599 | Msg: bp 180/95 cov ma | Response: Risk: HIGH
+Advice: Seek immediate medical attention at the nearest facility.
+2025-04-16 03:00:47.150267 | From: whatsapp:+2348034763599 | Msg: jj | Response: Risk: LOW
+Advice: Continue regular antenatal care. No urgent risks detected.
